@@ -1,2 +1,2 @@
 # DOC333---Individual-Coursework
-DOC333 Introduction to Programming 1 - P1 | Developing a Shapes Calculator
+You have been instructed to develop a simple shapes calculator!
