@@ -21,3 +21,10 @@ Finally a report is required to be submitted with the following contents in it!
 3. Algorithm
 4. Test cases for each operation
 5. Along with the screenshots of the program runned!
+
+
+Read the above Coursework Specification for more in-depth information of the Project.
+
+Report.pdf includes some Test Cases and the Results along with several other required data.
+
+Copyright © 2022 Informatics Institute of Technology. All Rights Reserved
